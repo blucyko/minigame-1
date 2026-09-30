@@ -16,7 +16,7 @@ The relationship between Components, GameObjects, and Scenes can be described as
 
 
 
-\[Itch page](https://blucyko.itch.io/gdim-31-minigame-1)
+[Itch page](https://blucyko.itch.io/gdim-31-minigame-1)
 
 
 
